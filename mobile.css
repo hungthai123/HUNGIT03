@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+
+.ads {
+    display: none;
+}
+.coures{
+    width: 100%;
+}
+
+.flex{
+    flex-direction: column;
+}
+
+.flex.menu{
+    flex: initial !important;
+}
+
+header img{
+    max-width: 100%;
+}
